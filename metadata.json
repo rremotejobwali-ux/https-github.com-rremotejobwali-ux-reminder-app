@@ -1,0 +1,5 @@
+{
+  "name": "Reminder app",
+  "description": "A smart reminder application that uses Gemini AI to parse natural language tasks and schedule reminders efficiently.",
+  "requestFramePermissions": []
+}
